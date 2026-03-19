@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "絶対称賛!",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-19T07:29:14.427564Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶対称賛! feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_絶対称賛!_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
